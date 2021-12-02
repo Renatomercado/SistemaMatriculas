@@ -1,2 +1,3 @@
 # SistemaMatriculas
-Proyecto Titulo sistema matriculas para el DAEM de Limache
+Proyecto Titulo sistema matrículas para el DAEM de Limache
+El DAEM de Limache posee un sistema de ingreso de matrículas muy precario, donde cada apoderado tiene que ir de manera presencial al colegio para inscribir a su pupilo en un formulario de papel y lápiz para ser ingresado a un archivador. La idea es que se implemente un sistema de herramientas de “gestión de matrículas”, que permita el registro, procesamiento y consulta de la información de los estudiantes de manera digital, dejando de lado los archivadores y el papel, para que, de esta manera, este proceso quede implementado y sea ágil y fácil de utilizar. 
